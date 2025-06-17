@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+screen_brightness_control
+numpy
